@@ -1,0 +1,4 @@
+﻿linha;id;data;fornecedor;categoria;valor
+2;001;2026-11-01;Mercado Exemplo;Alimentação;125,90
+4;003;2026-11-03;Papelaria Exemplo;Escritório;42,00
+12;010;2026-11-11;Fornecedor Exemplo;Outros;1.234,56

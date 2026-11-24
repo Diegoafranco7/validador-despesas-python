@@ -1,0 +1,16 @@
+id;data;fornecedor;categoria;valor
+001;2026-11-01;Mercado Exemplo;Alimentação;125,90
+002;2026-11-02;Posto Exemplo;Transporte;180,50
+003;2026-11-03;Papelaria Exemplo;Escritório;42,00
+004;2026-11-04;;Serviços;90,00
+005;2026-13-05;Loja Exemplo;Material;60,00
+006;2026-11-06;Assinatura Exemplo;Software;ABC
+007;2026-11-07;Restaurante Exemplo;Alimentação;-20,00
+008;2026-11-08;Loja Exemplo;Outros;0,00
+002;2026-11-09;Outra Exemplo;Material;55,00
+009;2026-11-10;Papelaria Exemplo;;15,00
+010;2026-11-11;Fornecedor Exemplo;Outros;1.234,56
+011;2026-11-12;Loja Exemplo;Outros;10,999
+012;2026-11-13;Loja Exemplo;Outros;NaN
+013;2026-11-14;Loja Exemplo;Outros;Infinity
+;2026-11-15;Fornecedor Exemplo;Software;30,00

@@ -1,0 +1,13 @@
+﻿linha;id;data;fornecedor;categoria;valor;motivos
+3;002;2026-11-02;Posto Exemplo;Transporte;180,50;id duplicado: revisar todas as ocorrências
+5;004;2026-11-04;;Serviços;90,00;fornecedor obrigatório
+6;005;2026-13-05;Loja Exemplo;Material;60,00;data inválida: use uma data existente em AAAA-MM-DD
+7;006;2026-11-06;Assinatura Exemplo;Software;ABC;valor inválido: use 125,90 ou 1.234,56
+8;007;2026-11-07;Restaurante Exemplo;Alimentação;-20,00;valor deve ser maior que zero
+9;008;2026-11-08;Loja Exemplo;Outros;0,00;valor deve ser maior que zero
+10;002;2026-11-09;Outra Exemplo;Material;55,00;id duplicado: revisar todas as ocorrências
+11;009;2026-11-10;Papelaria Exemplo;;15,00;categoria obrigatório
+13;011;2026-11-12;Loja Exemplo;Outros;10,999;valor inválido: use 125,90 ou 1.234,56
+14;012;2026-11-13;Loja Exemplo;Outros;NaN;valor inválido: use 125,90 ou 1.234,56
+15;013;2026-11-14;Loja Exemplo;Outros;Infinity;valor inválido: use 125,90 ou 1.234,56
+16;;2026-11-15;Fornecedor Exemplo;Software;30,00;id obrigatório

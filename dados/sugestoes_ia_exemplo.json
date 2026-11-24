@@ -1,0 +1,12 @@
+[
+  {
+    "linha": 11,
+    "categoria_sugerida": "Escritório",
+    "justificativa": "Exemplo preparado com apoio de IA: o fornecedor fictício Papelaria Exemplo sugere material de escritório. A sugestão requer revisão e não corrige automaticamente o campo ausente do CSV."
+  },
+  {
+    "linha": 12,
+    "categoria_sugerida": "Outros",
+    "justificativa": "Exemplo preparado com apoio de IA: Fornecedor Exemplo não informa a natureza da despesa. Não há evidência suficiente para propor categoria mais específica."
+  }
+]
